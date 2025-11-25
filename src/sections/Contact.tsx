@@ -1,10 +1,10 @@
-import React from "react";
+
 
 export default function Contact() {
-  const email = "mailto:youremail@example.com";
-  const phone = "tel:+1234567890";
-  const linkedin = "https://www.linkedin.com/in/yourprofile";
-  const github = "https://github.com/yourusername";
+  const email = "mailto:rithysok703@gmail.com";
+  const phone = "tel:+85510236506";
+  const linkedin = "https://www.linkedin.com/in/rithy-sok-65304b302";
+  const github = "https://github.com/PopcornII";
 
   const contacts = [
     {
